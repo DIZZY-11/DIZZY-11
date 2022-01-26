@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🖤Acá er Dizzy.
 
-<!--
-**DIZZY-11/DIZZY-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Actualmente desarrollo en discord.gg/desconocidosrp </a>
+- Aprendiendo por mi cuenta
+- Discord: D i z z y#1660
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊Trayectoria
+
+![](https://github-readme-stats.vercel.app/api?username=dizzy-11&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+## 👥Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/DIZZY-11/count.svg)
