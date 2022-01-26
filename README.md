@@ -1,4 +1,4 @@
-# 🖤Acá er Dizzy.
+# 🖤Acá er Dizzy
 
 
 - Actualmente desarrollo en discord.gg/desconocidosrp </a>
