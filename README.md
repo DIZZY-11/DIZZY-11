@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Aplicación y programas en los que desarrollo
 ![FiveM](https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=lua&logoColor=white)
-![LUA](https://img.shields.io/badge/LUA-skyblue.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![LUA](https://img.shields.io/badge/LUA-blue.svg?&style=for-the-badge&logo=lua&logoColor=white)
 
 ## 📊Trayectoria
 
