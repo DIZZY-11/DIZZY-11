@@ -1,7 +1,7 @@
 # 🖤Acá er Dizzy
 
 
-- Actualmente desarrollo en Desconocidos RP (https://discord.gg/xdHfKUEx2Q) </a>
+- Actualmente desarrollo en Desconocidos RP // https://discord.gg/xdHfKUEx2Q </a>
 - Aprendiendo por mi cuenta, de momento siendo principiante jeje
 - Discord: D i z z y#1660
 
