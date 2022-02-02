@@ -5,9 +5,10 @@
 - Aprendiendo por mi cuenta, de momento siendo principiante jeje
 - Discord: D i z z y#1660
 
-## 👨‍💻 Aplicación y programas en los que desarrollo
-![FiveM](https://img.shields.io/badge/FIVEM-orange.svg?&style=for-the-badge&logo=fivem&logoColor=white)
-![LUA](https://img.shields.io/badge/LUA-blue.svg?&style=for-the-badge&logo=lua&logoColor=white)
+## 👨‍💻 Aplicaciónes programas en los que desarrollo
+![LUA](https://img.shields.io/badge/LUA-skyblue.svg?&style=for-the-badge&logo=lua&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊Trayectoria
 
