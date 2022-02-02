@@ -1,4 +1,4 @@
-# 🖤Acá er Dizzy
+# 🖤Dizzy
 
 
 - Actualmente desarrollo en Desconocidos RP // https://discord.gg/xdHfKUEx2Q </a>
